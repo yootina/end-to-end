@@ -1,4 +1,4 @@
-# end to end(B)
+# END TO END(A) 반갑습니다.
 
 - 강아지
 - 지구본
