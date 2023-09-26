@@ -1,4 +1,4 @@
-# end to end
+# end to end(A)
 
 - 강아지
 - 지구본
